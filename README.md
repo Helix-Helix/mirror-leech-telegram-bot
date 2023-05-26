@@ -55,7 +55,7 @@ In each single file there is a major change from base code, it's almost totaly d
 - Ability to cancel upload/clone/archive/extract/split
 - Cancel all buttons for choosing specific tasks status to cancel
 - Fix flooding issues
-- Fix overall upload and download speed
+- Fix overall upload/download speed
 
 ### Yt-dlp
 
